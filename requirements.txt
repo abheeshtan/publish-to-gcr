@@ -5,4 +5,3 @@ awslambdaric==2.0.4
 metzctl==1.0.0
 django-suit==0.2.28
 pacer_lib==2.33
-django-rest-extensions==0.2.0
