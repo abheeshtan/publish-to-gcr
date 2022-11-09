@@ -1,0 +1,8 @@
+boto3==1.21.21
+botocore==1.24.21
+python-dateutil==2.8.2
+awslambdaric==2.0.4
+metzctl==1.0.0
+django-suit==0.2.28
+pacer_lib==2.33
+django-rest-extensions==0.2.0
